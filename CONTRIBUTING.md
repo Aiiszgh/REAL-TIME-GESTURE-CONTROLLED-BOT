@@ -10,7 +10,7 @@ This project was engineered and maintained by our multidisciplinary robotics tea
 
 | Name | GitHub Username | Core Responsibilities & Contributions |
 | :--- | :--- | :--- |
-
+| **Amogh Nandwana** | [@Aiiszgh](https://github.com/Aiiszgh) | **Computer Vision, Deep Learning & Testing**<br>• Hand gesture dataset acquisition and creation<br>• Logistic handling and model training<br>• End-to-end integration and system stress testing |
 | **Prince Sanchela** | [@PrinceSanchela](https://github.com/PrinceSanchela) | **Core Robotics & CPU Vision Pipeline**<br>• End-to-end system design and hardware-software integration<br>• KiCad circuit schematic and power rail isolation<br>• ESP32 firmware (WebSocket server, PWM control, safety watchdog)<br>• CPU-optimized real-time vision client (`main.cpu.py`) with thread tuning & async queue |
 | **Vedant Chauhan** | [@VedantChauhan14](https://github.com/VedantChauhan14) | **Machine Learning & CUDA GPU Pipeline**<br>• Google Colab training pipeline (`train_gesture_yolo.ipynb`) & YOLOv8n checkpoint export (`best.pt`)<br>• Dataset consolidation and automated label remapping<br>• CUDA GPU-accelerated vision client (`main.cuda.py`) with VRAM cache management |
 | **Aastha** | [@Aastha150](https://github.com/Aastha150) | **Computer Vision & Dataset Annotation**<br>• Hand gesture dataset acquisition and curation<br>• Multi-class bounding box annotation and verification<br>• Dataset quality control across variable lighting conditions |
